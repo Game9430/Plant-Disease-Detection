@@ -4,3 +4,4 @@ python-multipart
 tensorflow 
 pillow 
 jinja2
+deep-translator
