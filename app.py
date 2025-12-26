@@ -119,7 +119,7 @@ footer {
 """)
 
 # ----------------------------- DIRECTORIES -----------------------------
-MODEL_DIR = r"/workspaces/Plant-Disease-Detection/models/"
+MODEL_DIR = "models"
 UPLOAD_DIR = "uploaded_images"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
