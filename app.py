@@ -119,7 +119,7 @@ footer {
 """)
 
 # ----------------------------- DIRECTORIES -----------------------------
-MODEL_DIR = "models"
+MODEL_DIR = "models/"
 UPLOAD_DIR = "uploaded_images"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
